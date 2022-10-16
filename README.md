@@ -19,6 +19,7 @@ Feel free to add in if you have a nice Projects :)
 ### PHP Projects
 *PHP Projects.*
 
+* [php CLI](https://github.com/mafuth/php-CLI) - Simple command line interface and OOP framework for beginners.
 * [Laravel-money](https://github.com/aharen/laravel-money) - Simple class with Facade to handle rufiyaa,laari for Laravel 5.
 * [Pay](https://github.com/aharen/Pay) - Process payments with Maldives Banking Gateways.
 * [Thaana text render](https://github.com/jawish/thaana_text_render_php) - Render thaana text as an image.
@@ -64,6 +65,7 @@ Feel free to add in if you have a nice Projects :)
 ### JAVASCRIPT Projects
 *JAVASCRIPT Projects.*
 
+* [MVFlix Torrent Streaming Server](https://github.com/mafuth/MVFLIX-Torrent-Server) - Streaming torrents on browser with api integration.
 * [Jquery.gdocviewer](https://github.com/jawish/jquery.gdocviewer) - jQuery plugin that automatically embeds the Google Docs Viewer for viewing pdf, doc etc..
 * [Joi-email-extensions](https://github.com/jawish/joi-email-extensions) - Joi extensions providing email normalization, MX record validation etc..
 * [Nc450](https://github.com/jawish/nc450) - This package provides a lightweight Javascript API class for controlling a TP-Link NC450 camera.
